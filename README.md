@@ -1,4 +1,5 @@
-# bikesharing
+# bikesharing                                             https://public.tableau.com/views/Book2_16429518797000/NYCSTORY?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 #Overview of the statistical analysis
 
 ## Overview of the statistical analysis
@@ -24,5 +25,4 @@
 ## Top ending locations data can be used for bike repair scheduling knowing where the majority of the bikes will help schedule repairs.
 
 
-https://public.tableau.com/views/Book2_16429518797000/NYCSTORY?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
